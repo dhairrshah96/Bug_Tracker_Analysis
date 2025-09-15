@@ -27,7 +27,7 @@ Analysis of ~50,000+ support tickets to identify bottlenecks, workload imbalance
 Sample visuals generated from analysis:  
 
 *Ticket Priority Distribution*  
-![Ticket Priority](images/kpi_by_priority.png)  
+![Ticket Priority](images/kpi_cs_by_priority.png)  
 
 *Ticket Lifecycle*  
 ![Ticket Lifecycle](images/kpi_lifecycle.png)  
